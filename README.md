@@ -1,8 +1,8 @@
 ## DSMovie
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 ![Badge Java](http://img.shields.io/static/v1?label=JAVA&message=11.0.13&color=yellow&style=for-the-badge)
-![Badge Spring](http://img.shields.io/static/v1?label=SPRING&message=2.6.2&color=GREEN&style=for-the-badge)
-![Badge PostgreSQL](http://img.shields.io/static/v1?label=POSTGRESQL&message=13.4&color=blue&style=for-the-badge)
+![Badge Spring](http://img.shields.io/static/v1?label=SPRING&message=2.6.4&color=GREEN&style=for-the-badge)
+![Badge PostgreSQL](http://img.shields.io/static/v1?label=POSTGRESQL&message=12.10&color=blue&style=for-the-badge)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48693812/158029327-d2ffd7b2-d913-4602-8d80-ed6637f412eb.svg" />
